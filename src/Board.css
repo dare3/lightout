@@ -1,0 +1,12 @@
+.Board {
+  margin: 0 auto;
+}
+
+
+.Board-win {
+  font-size: 2rem;
+  text-align: center;
+  margin: 20px;
+}
+
+
